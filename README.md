@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/GreyCard581/total)
 
-# :package:・GreyCard581 V1.0.0
+# :package:・GreyCard581
 
 ### :mag:・Information
 
@@ -30,7 +30,7 @@
 
 ### :link:・Dépendance
 
-- ModKit est une dépendence pour ce Plugin.
+- Lien vers ***Modkit & AAMenu*** **[Cliquez ici](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)**
 
 ### :speech_balloon:・Contact
 
