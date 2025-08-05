@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/GreyCard581/total)
 
-# :package:・GreyCard581
+# :package:・GrayCard581
 
 ### :mag:・Information
 
@@ -10,30 +10,34 @@
 
 ### :books:・Description
 
-- GreyCard581 Est un Plugin qui permet l'ajout de Certificat d'immatriculation soient des Carte Grise
+- GrayCard581 Est un Plugin qui permet l'ajout de Certificat d'immatriculation (Carte Grise)
 
 ### :toolbox:・Fonctionnalité
 
-- Permet de verifier ses Certificat d'immatriculation via l'ongler de AAMenu -> Document
-- Les Certificat ont une date de validité, ils sont valable 1 mois (IRL)
-- Les Policier peuvent contrôler le Certificat d'immatriculation
-- Les Mécanicien peuvent Ajouer / Retirer / Mettre a jour un certificat si l'entreprise y est autoriser
-- Les Entreprise qui font la gestion de ces élément doivent être enregistrer via AAMenu -> Administration et vous devrez ajouter l'entreprise et l'entreprise poura accéder au Menu de Gestion des Certficat d'immatriculation via AAMenu -> Métier
-- *Le Plugin possède un Webhook pour que je puisse savoir qui utilise le Plugin.*
+- Possède une commande "/graycard", "/cartegrise", "/gc" et "/cg" qui ouvre le menu pour ce dirigez vers les fonctionalités du Plugin
+- Averti les joueurs qui roule sans carte grise
+- Tout le monde peux vérifier la carte grise a l'intérieur du véhicule
+- Possède une config avec deux valeurs
+  - L'Id de l'entreprise autorisé (laisser 0 si tout les mécano peuvent le faire)
+  - Le nombre de jours d'expiration de la carte grise
+- Les mécano autorisé peuvent vérifier, crée, supprimer et actualiser la carte grise
+- Les force de l'ordre peuvent contrôler la carte grise depuis l'extérieur du véhicule
+- Les admins peuvent crée, supprimer, vérifier et actualiser une carte grise
 
 ### :link:・Téléchargement
 
-- Télécharger le fichier ***GreyCard581***
+- Télécharger le fichier ***GrayCard581***
 - Télécharger les dépendance ***Nécessaire*** si besoin
 - Mettez les fichier dans votre serveur
 - Amusez vous !
 
+- Lien vers la ***dernière version*** **[Cliquez ici](https://github.com/Shape581/GrayCard581/releases/latest)**
+- Lien ver la ***documentation*** **[Cliquez ici](https://github.com/Shape581/GrayCard581)**
+
 ### :link:・Dépendance
 
-- Lien vers ***Modkit & AAMenu*** **[Cliquez ici](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)**
+- Aucune dépendence
 
 ### :speech_balloon:・Contact
 
 - *Vous pouvez me contacter en MP si besoin.*
-
-![GreyCard581](https://github.com/user-attachments/assets/5edec7cc-e97e-4e17-8822-f210f0a2ed54)
